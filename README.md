@@ -4,8 +4,6 @@
 
 I study in 21 school and in NSTU on applied mathematic.
 
-I like:
-
 - 💻  coding
 - ∮ math
 - 🌑 space
