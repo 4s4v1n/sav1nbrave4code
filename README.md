@@ -40,11 +40,11 @@ I study in 21 school and in NSTU on applied mathematic.
 
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 ### You can contact me
+
+---
 
 <p align="center">
    <a href="https://vk.com/asav1n">
