@@ -41,7 +41,7 @@ I study in 21 school and in NSTU on applied mathematic.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sav1nbrave4code&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sav1nbrave4codea&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sav1nbrave4codea&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### You can contact me
