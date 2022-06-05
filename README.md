@@ -4,11 +4,6 @@
 
 I study in 21 school and in NSTU on applied mathematic.
 
-- 💻  coding
-- ∮ math
-- 🌑 space
-- 😴 sleep alot
-
 ### Skills and Tools
 
 ---
