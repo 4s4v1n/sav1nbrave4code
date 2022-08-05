@@ -21,15 +21,15 @@ I study in 21 school and work as junior C++/Qt developer.
 
 <img align="left" alt="Linux" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
 
-<img align="left" alt="MarkDown" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
+<img align="left" alt="MarkDown" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />  
 
 <br />
 <br />
 <br />
 <br />
-<br />
+<br />  
 
-### Stats
+### Stats  
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sav1nbrave4code)](https://github.com/anuraghazra/github-readme-stats)
