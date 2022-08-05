@@ -2,7 +2,7 @@
 
 ### I'm backend C/C++ developer
 
-I study in 21 school and in NSTU on applied mathematic.
+I study in 21 school and work as junior C++/Qt developer.
 
 ### Skills and Tools
 
@@ -29,11 +29,9 @@ I study in 21 school and in NSTU on applied mathematic.
 <br />
 <br />
 
-
 ### Stats
 
 ---
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sav1nbrave4code)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sav1nbrave4code)](https://github.com/anuraghazra/github-readme-stats)
