@@ -2,7 +2,7 @@
 
 ### I'm backend C/C++ developer
 
-I study in 21 school and work as junior C++/Qt developer.
+I study in 21 school and work as junior+ C++/Qt developer.
 
 ### Skills and Tools
 
