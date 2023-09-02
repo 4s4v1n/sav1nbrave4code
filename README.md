@@ -1,8 +1,8 @@
 ## Hello, I'm Savin Anton
 
-### I'm backend C/C++ developer
+### I'm System C/C++ developer
 
-I study in 21 school and NSTU at applied mathematic. Work as junior+ C++/Qt and junior Golang developer.
+I study in 21 school and NSTU at applied mathematic. Work as junior+ C++/Qt. Interested in ML, currently learn python.  
 
 ### Skills and Tools
 
