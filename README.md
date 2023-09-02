@@ -49,7 +49,7 @@ I study in 21 school and NSTU at applied mathematic. Work as junior+ C++/Qt. Int
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/sav1n_type" target="_blank" style='margin-right:10px'>
+  <a href="https://t.me/trelogika" target="_blank" style='margin-right:10px'>
     <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
